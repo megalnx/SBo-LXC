@@ -1,0 +1,5 @@
+
+LXC setup for building Slackware packages from SlackBuilds
+
+- build-package.sh - Helper script for building SlackBuilds packages at LXC container
+- create-slack-it-builds.sh - Create a set of Slackware containers
